@@ -5,5 +5,6 @@ End-to-end Multil-class Dog Breed Classification
 * pandas
 * numpy
 * sklearn
+* matplotlib
 * tensorflow
 * google colab
